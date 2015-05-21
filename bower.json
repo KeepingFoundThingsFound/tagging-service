@@ -1,0 +1,24 @@
+{
+  "name": "tagging-service",
+  "version": "1.0.0",
+  "homepage": "https://github.com/KeepingFoundThingsFound/tagging-service",
+  "authors": [
+    "Caleb Thorsteinson <caleb@thorsteinson.me>"
+  ],
+  "description": "A service to tag associations in itemMirror",
+  "main": "tagging.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "itemMirror"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
