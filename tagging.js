@@ -2,6 +2,7 @@
 // namespace.  When this function executes it will create the tagging
 // object with all of our functions
 (function() {
+  'use strict';
 
   // Our namespace for the tagging service
   var TAGGING_NS = 'tagging';
